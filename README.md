@@ -1,1 +1,2 @@
-Puts "Hello Yurij Koshel"
+# cursor_ubuntu
+test.rb
